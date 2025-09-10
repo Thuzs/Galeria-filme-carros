@@ -1,2 +1,2 @@
 # Galeria-filme-carros
-Aqui voce vai encontrar os personagens principais do filmes carros, caso queira saber mais sobre um personagem em especifico clique na imagem assim sendo direcionado para a wiki do mesmo
+Aqui você vai encontrar os personagens principais do filme carros, caso queira saber mais sobre um personagem em especifico, clique na imagem assim sendo direcionado para a wiki do mesmo.
